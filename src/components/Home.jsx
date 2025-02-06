@@ -37,11 +37,7 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+            I am Priyanshu Kumar Gupta, an Information Technology student and an avid web developer. My expertise spans both front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB. I am committed to crafting sophisticated, scalable, and intuitive web applications that prioritize user experience and performance. With a robust foundation in software development principles, I am dedicated to honing my skills and staying at the forefront of emerging technologies. My approach is characterized by precision, problem-solving acumen, and the delivery of high-quality, efficient code. My portfolio exemplifies my capability to design, build, and deploy comprehensive digital solutions.
             </p>
             <br />
             {/* social media icons */}
