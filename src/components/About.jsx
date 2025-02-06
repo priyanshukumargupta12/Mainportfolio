@@ -9,7 +9,7 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-          Hello, I'm Akhil, a passionate Web developer with a keen eye for MERN
+          Hello, I'm Priyanshu Kumar Gupta, a passionate Web developer with a keen eye for MERN
           Stack . With a background in IT, I strive to create impactful and
           visually stunning Software solutions that leave a lasting impression.
         </p>
@@ -18,9 +18,9 @@ function About() {
           Education & Training
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
+          [B.tech Information Technology], [Guru Nanak Dev Engineering College], [2025] [Information Technology],
+          [gndec], [2026] [Mern stck], [College],
+          [2026]
         </span>
         <br />
         <br />
@@ -28,8 +28,8 @@ function About() {
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
+          Proficient in [C++, Python, Java] Experienced with [Software
+           Tool  like vs code , chaitgpt , deepseek ai ,Geemni] Strong grasp of [Designing full stack, DSA WITH C++]
           Excellent problem-solving skills Effective communicator and
           collaborator
         </span>
@@ -39,11 +39,10 @@ function About() {
           Professional Experience
         </h1>
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
+          [Student], [ At Gndec], [Dates] [Pursuing Information Technology enables the development of critical problem-solving, technical, and analytical skills. It opens doors to diverse careers, innovation, and high earning potential. IT professionals contribute to advancements in software, cybersecurity, and data management, making a significant impact on industries and global technology trends.] [As Student],
           [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
+          and achievements] ,,
+           [i give my 100 percent to make this protfolio project and i enure i will also give 100 percent to another project]
         </span>
         <br />
         <br />
@@ -61,7 +60,7 @@ function About() {
         </h1>
         <p>
           My mission is to leverage my skills and creativity to deliver
-          innovative [Your Field] solutions that exceed client expectations and
+          innovative [Information Technology ] solutions that exceed client expectations and
           contribute positively to the digital landscape. I am committed to
           continuous learning and growth, always seeking new challenges and
           opportunities to expand my horizons.
